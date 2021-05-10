@@ -15,6 +15,6 @@
 * watch it do it's magic
 ## OR...
 * open command promt in exe directory
-* run: ``videoimg (path-to-video)``
-# If you want to compile...
-i just used ``pyinstaller videoimg.py`` to convert to exe
+* run: ``main.py (path-to-video)``
+# If you want to compile(or whatever you want to call it)...
+i just used ``pyinstaller main.py`` to convert to exe or whatever file your os uses
